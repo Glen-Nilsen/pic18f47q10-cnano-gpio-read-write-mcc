@@ -48,6 +48,8 @@
  */
 void main(void)
 {
+    //Comment
+    
     // Initialize the device
     SYSTEM_Initialize();
 
