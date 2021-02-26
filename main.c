@@ -38,13 +38,13 @@
     THE FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL 
     CLAIMS IN ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT 
     OF FEES, IF ANY, THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS 
-    SOFTWARE.
+    SOFTWARE. 
 */
 
 #include "mcc_generated_files/mcc.h"
 
 /*
-                         Main application
+    Main application
  */
 void main(void)
 {
